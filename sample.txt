@@ -1,0 +1,6 @@
+5
+string1
+cat2
+dogs3
+elephant4
+catsanddogs5
